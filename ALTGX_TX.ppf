@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE pinplan>
+<pinplan intended_family="Cyclone IV GX" variation_name="ALTGX_TX" megafunction_name="ALTGX" specifies="all_ports">
+<global>
+<pin name="cal_blk_clk" direction="input" scope="external"  />
+<pin name="pll_areset[0..0]" direction="input" scope="external"  />
+<pin name="pll_inclk[0..0]" direction="input" scope="external"  />
+<pin name="tx_ctrlenable[7..0]" direction="input" scope="external"  />
+<pin name="tx_datain[63..0]" direction="input" scope="external"  />
+<pin name="tx_digitalreset[3..0]" direction="input" scope="external"  />
+<pin name="pll_locked[0..0]" direction="output" scope="external"  />
+<pin name="tx_clkout[3..0]" direction="output" scope="external"  />
+<pin name="tx_dataout[3..0]" direction="output" scope="external"  />
+
+</global>
+</pinplan>

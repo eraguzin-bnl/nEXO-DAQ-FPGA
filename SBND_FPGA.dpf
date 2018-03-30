@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pin_planner>
+	<pin_info>
+		<pin name="I2C_SCL_DIF_P" direction="Input" source="Hierarchy Database" diff_pair_node="I2C_SCL_DIF_N" >
+		</pin>
+		<pin name="I2C_SDA_DIF_N" direction="Bidir" source="Hierarchy Database" diff_pair_node="I2C_SDA_DIF_P" >
+		</pin>
+		<pin name="I2C_SDA_DIF_P" direction="Bidir" source="Hierarchy Database" diff_pair_node="I2C_SDA_DIF_N" >
+		</pin>
+		<pin name="I2C_SCL_DIF_N" source="Assignments" diff_pair_node="I2C_SCL_DIF_P" >
+		</pin>
+	</pin_info>
+	<buses>
+	</buses>
+	<group_file_association>
+	</group_file_association>
+	<pin_planner_file_specifies>
+	</pin_planner_file_specifies>
+</pin_planner>

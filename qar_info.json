@@ -1,0 +1,7 @@
+{
+	"common_dir" : "D:/share/SBND/FPGA/SBND_FEMB_FPGA/",
+	"acds_version" : "Version 16.0.0",
+	"platform" : "windows",
+	"os" : "Windows 7",
+	"qpf" : "SBND_FPGA.qpf"
+}

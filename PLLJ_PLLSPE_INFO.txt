@@ -1,0 +1,80 @@
+PLL_Name	alt_pll:alt_pll_inst|altpll:altpll_component|alt_pll_altpll:auto_generated|pll1
+PLLJITTER	35
+PLLSPEmax	84
+PLLSPEmin	-53
+
+PLL_Name	ProtoDUNE_ADC_CLK_TOP:ProtoDUNE_ADC_CLK_TOP_INST|ProtoDUNE_ADC_clk_gen:ProtoDUNE_ADC_clk_gen_INST1|phase_pll:phase_pll_inst|altpll:altpll_component|phase_pll_altpll:auto_generated|pll1
+PLLJITTER	23
+PLLSPEmax	84
+PLLSPEmin	-53
+
+PLL_Name	SBND_HSTX:SBND_HSTX_INST|ALTGX_TX:ALTGX_TX_inst2|ALTGX_TX_alt_c3gxb:ALTGX_TX_alt_c3gxb_component|altpll:pll0|altpll_2i71:auto_generated|pll1
+PLLJITTER	31
+PLLSPEmax	84
+PLLSPEmin	-53
+
+PLL_Name	SBND_HSTX:SBND_HSTX_INST|ALTGX_TX:ALTGX_TX_inst2|ALTGX_TX_alt_c3gxb:ALTGX_TX_alt_c3gxb_component|transmit_pcs0
+PLLJITTER	NA
+PLLSPEmax	NA
+PLLSPEmin	NA
+
+PLL_Name	SBND_HSTX:SBND_HSTX_INST|ALTGX_TX:ALTGX_TX_inst2|ALTGX_TX_alt_c3gxb:ALTGX_TX_alt_c3gxb_component|transmit_pcs1
+PLLJITTER	NA
+PLLSPEmax	NA
+PLLSPEmin	NA
+
+PLL_Name	SBND_HSTX:SBND_HSTX_INST|ALTGX_TX:ALTGX_TX_inst2|ALTGX_TX_alt_c3gxb:ALTGX_TX_alt_c3gxb_component|transmit_pcs2
+PLLJITTER	NA
+PLLSPEmax	NA
+PLLSPEmin	NA
+
+PLL_Name	SBND_HSTX:SBND_HSTX_INST|ALTGX_TX:ALTGX_TX_inst2|ALTGX_TX_alt_c3gxb:ALTGX_TX_alt_c3gxb_component|transmit_pcs3
+PLLJITTER	NA
+PLLSPEmax	NA
+PLLSPEmin	NA
+
+PLL_Name	SBND_HSTX:SBND_HSTX_INST|ALTGX_TX:ALTGX_TX_inst2|ALTGX_TX_alt_c3gxb:ALTGX_TX_alt_c3gxb_component|transmit_pma0
+PLLJITTER	NA
+PLLSPEmax	NA
+PLLSPEmin	NA
+
+PLL_Name	SBND_HSTX:SBND_HSTX_INST|ALTGX_TX:ALTGX_TX_inst2|ALTGX_TX_alt_c3gxb:ALTGX_TX_alt_c3gxb_component|transmit_pma1
+PLLJITTER	NA
+PLLSPEmax	NA
+PLLSPEmin	NA
+
+PLL_Name	SBND_HSTX:SBND_HSTX_INST|ALTGX_TX:ALTGX_TX_inst2|ALTGX_TX_alt_c3gxb:ALTGX_TX_alt_c3gxb_component|transmit_pma2
+PLLJITTER	NA
+PLLSPEmax	NA
+PLLSPEmin	NA
+
+PLL_Name	SBND_HSTX:SBND_HSTX_INST|ALTGX_TX:ALTGX_TX_inst2|ALTGX_TX_alt_c3gxb:ALTGX_TX_alt_c3gxb_component|transmit_pma3
+PLLJITTER	NA
+PLLSPEmax	NA
+PLLSPEmin	NA
+
+PLL_Name	SBND_RDOUT_V1:SBND_RDOUT_V1_inst|ADC_PLL:ADC_PLL_inst0|altpll:altpll_component|ADC_PLL_altpll1:auto_generated|pll1
+PLLJITTER	23
+PLLSPEmax	84
+PLLSPEmin	-53
+
+PLL_Name	UDP_IO:udp_io_inst1|tse_mac:tse_mac_inst|tse_mac_0002:tse_mac_inst|altera_tse_altgxb:i_altgxb_0|altera_tse_gxb_gige_inst:the_altera_tse_gxb_gige_inst|altera_tse_altgx_civgx_gige:the_altera_tse_alt_gx_civgx|altera_tse_altgx_civgx_gige_alt_c3gxb_g308:altera_tse_altgx_civgx_gige_alt_c3gxb_g308_component|altpll:pll0|altpll_ja81:auto_generated|pll1
+PLLJITTER	28
+PLLSPEmax	84
+PLLSPEmin	-53
+
+PLL_Name	UDP_IO:udp_io_inst1|tse_mac:tse_mac_inst|tse_mac_0002:tse_mac_inst|altera_tse_altgxb:i_altgxb_0|altera_tse_gxb_gige_inst:the_altera_tse_gxb_gige_inst|altera_tse_altgx_civgx_gige:the_altera_tse_alt_gx_civgx|altera_tse_altgx_civgx_gige_alt_c3gxb_g308:altera_tse_altgx_civgx_gige_alt_c3gxb_g308_component|receive_pma0
+PLLJITTER	NA
+PLLSPEmax	NA
+PLLSPEmin	NA
+
+PLL_Name	UDP_IO:udp_io_inst1|tse_mac:tse_mac_inst|tse_mac_0002:tse_mac_inst|altera_tse_altgxb:i_altgxb_0|altera_tse_gxb_gige_inst:the_altera_tse_gxb_gige_inst|altera_tse_altgx_civgx_gige:the_altera_tse_alt_gx_civgx|altera_tse_altgx_civgx_gige_alt_c3gxb_g308:altera_tse_altgx_civgx_gige_alt_c3gxb_g308_component|transmit_pcs0
+PLLJITTER	NA
+PLLSPEmax	NA
+PLLSPEmin	NA
+
+PLL_Name	UDP_IO:udp_io_inst1|tse_mac:tse_mac_inst|tse_mac_0002:tse_mac_inst|altera_tse_altgxb:i_altgxb_0|altera_tse_gxb_gige_inst:the_altera_tse_gxb_gige_inst|altera_tse_altgx_civgx_gige:the_altera_tse_alt_gx_civgx|altera_tse_altgx_civgx_gige_alt_c3gxb_g308:altera_tse_altgx_civgx_gige_alt_c3gxb_g308_component|transmit_pma0
+PLLJITTER	NA
+PLLSPEmax	NA
+PLLSPEmin	NA
+
